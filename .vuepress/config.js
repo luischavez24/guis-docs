@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/guis-docs/',
   title: 'GUIS Developer',
   description: 'Code smarter',
   themeConfig: {
